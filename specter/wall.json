@@ -1,20 +1,26 @@
 [
   {
     "name": "Wallpaper 1",
-    "author": "Waqar Ali",
+    "author": "",
     "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/specter/default_wallpaper.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/specter/default_wallpaper.jpg"
   },
   {
     "name": "Wallpaper 2",
-    "author": "Waqar Ali",
+    "author": "",
     "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/specter/p.png",
     "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/specter/p.png"
   },
   {
     "name": "Wallpaper 3",
-    "author": "Waqar Ali",
+    "author": "",
     "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/specter/preview_miwallpaper_0.jpg",
     "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/specter/preview_miwallpaper_0.jpg"
+  },
+  {
+    "name": "Wallpaper 4",
+    "author": "",
+    "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/specter/w4.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/specter/w4.jpg"
   }
 ]
