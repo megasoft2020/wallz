@@ -1,1 +1,26 @@
-
+[
+  {
+    "name": "Wallpaper 1",
+    "author": "Waqar Ali",
+    "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/butterfly/1.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/butterfly/1.jpg"
+  },
+  {
+    "name": "Wallpaper 2",
+    "author": "Waqar Ali",
+    "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/butterfly/2.png",
+    "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/butterfly/2.png"
+  },
+  {
+    "name": "Wallpaper 3",
+    "author": "Waqar Ali",
+    "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/butterfly/3.png",
+    "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/butterfly/3.png"
+  },
+  {
+    "name": "Wallpaper 4",
+    "author": "Waqar Ali",
+    "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/butterfly/4.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/butterfly/4.jpg"
+  }
+]
