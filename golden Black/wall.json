@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "Wallpaper 1",
+    "author": "Madcell",
+    "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/golden%20Black/wall1.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/golden%20Black/wall1.jpg"
+  },
+  {
+    "name": "Wallpaper 2",
+    "author": "Madcell",
+    "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/golden%20Black/wall2.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/golden%20Black/wall2.jpg"
+  }
+]
