@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "Wallpaper 1",
+    "author": "",
+    "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/bluegold/w1.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/bluegold/w1.jpg"
+  },
+  {
+    "name": "Wallpaper 2",
+    "author": "",
+    "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/bluegold/w2.jpg",
+    "thumbUrl": "https://raw.githubusercontent.com/megasoft2020/wallz/main/bluegold/w2.jpg"
+  }
+]
