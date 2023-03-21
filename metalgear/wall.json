@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "Wallpaper",
+    "author": "Madcell",
+    "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/metalgear/wall.jpg",
+    "https://raw.githubusercontent.com/megasoft2020/wallz/main/metalgear/thumb.jpg"
+  },
+  {
+    "name": "Wallpaper Blur",
+    "author": "Madcell",
+    "url": "https://raw.githubusercontent.com/megasoft2020/wallz/main/metalgear/blur.jpg",
+    "https://raw.githubusercontent.com/megasoft2020/wallz/main/metalgear/blurthumb.jpg"
+  }
+]
